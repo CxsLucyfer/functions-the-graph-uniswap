@@ -18,7 +18,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "@chainlink/contracts": "^0.6.1",
+    "@chainlink/contracts": "^1.0.0",
     "@chainlink/env-enc": "^1.0.5",
     "@chainlink/functions-toolkit": "^0.2.0",
     "@uniswap/v3-periphery": "^1.4.3",
@@ -39,7 +39,7 @@
     "hardhat-contract-sizer": "^2.6.1",
     "hardhat-gas-reporter": "^1.0.9",
     "husky": "^8.0.1",
-    "lint-staged": "^13.0.3",
+    "lint-staged": "^15.2.4",
     "nodemon": "^3.0.1",
     "ora": "5.4.1",
     "prettier": "^2.7.1",
