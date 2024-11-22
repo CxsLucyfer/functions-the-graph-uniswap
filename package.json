@@ -18,7 +18,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "@chainlink/contracts": "^0.6.1",
+    "@chainlink/contracts": "^1.0.0",
     "@chainlink/env-enc": "^1.0.5",
     "@chainlink/functions-toolkit": "^0.2.0",
     "@uniswap/v3-periphery": "^1.4.3",
@@ -35,7 +35,7 @@
     "chai": "^4.3.6",
     "eth-crypto": "^2.4.0",
     "ethers": "^5.7.2",
-    "hardhat": "^2.17.3",
+    "hardhat": "^2.22.16",
     "hardhat-contract-sizer": "^2.6.1",
     "hardhat-gas-reporter": "^1.0.9",
     "husky": "^8.0.1",
